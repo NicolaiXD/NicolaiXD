@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolai</h1>
 <h3 align="center">A Computer Science student from the Philippines.</h3>
 
-- 🔭 I’m currently working on **2 projects.**
+- 🔭 I’m currently working on **University of the Philippines Manila**
 
 - 🌱 I’m currently learning **Machine Learning and previously studied Natural Language Processing.**
 
