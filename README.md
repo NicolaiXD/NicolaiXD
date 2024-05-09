@@ -11,6 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  at my Gmail: **lenar.guzman.7@gmail.com**
+  you may reach out to me at **Lenar Guzman**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
