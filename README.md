@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nicolai</h1>
 <h3 align="center">A Computer Science student from the Philippines.</h3>
 
-- 🔭 I’m currently working on **University of the Philippines Manila**
+- 🔭 I’m currently working on **University of the Philippines Manila - Information Management Service ⭕**
 
-- 🌱 I’m currently learning **Machine Learning and previously studied Natural Language Processing.**
+- 🌱 I’m currently learning **Natural Language Processing and Emphatic Computing as a 4th Year College Student ✌😗.**
 
 - 📫 How to reach me **lenar.guzman.7@gmail.com**
 
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  at my Gmail: **lenar.guzman.7@gmail.com**
-  you may reach out to me at **Lenar Guzman**
+  at my Gmail: <u>lenar.guzman.7@gmail.com</u>
+  you may reach out to me at <u>Lenar Guzman</u>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
