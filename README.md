@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nicolai</h1>
-<h3 align="center">A Computer Science student from the Philippines.</h3>
+<h3 align="center">A fresh graduate from the Philippines.</h3>
 
 - 🔭 I’m currently working on **Portfolio Website using Typescript**
 
-- 🌱 I’m currently relearning **Machine Learning and Artificial Intelligence ✌😗.**
+- 🌱 I’m currently relearning **React with Typescript & Javascript ✌😗.**
 
-- 📫 How to reach me **lenar.guzman.7@gmail.com**
+- 📫 How to reach me through **lenar.guzman.7@gmail.com**
 
 - ⚡ Fun fact **I am handsome.**
 
