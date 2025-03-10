@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on **Portfolio Website using Typescript** and **Various Projects** 😭
 
-- 🌱 I’m currently relearning **Java and React ✌😗 ** (for work)
+- 🌱 I’m currently relearning **Java and React** ✌😗 *(for work)*
 
-- 📫 How to reach me through **CHAT** or **ANYWHERE**
+- 📫 How to reach me through **CHAT** or **ANYWHERE** probably through LinkedIn 😀
 
 - ⚡ Fun fact **I am handsome 👍👍👍**
