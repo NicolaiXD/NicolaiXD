@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicolai</h1>
+<h1 align="center">I'm Nicolai 👋</h1>
 <h3 align="center">A fresh graduate from the Philippines that just started working 👍</h3>
 
 - 🔭 I’m currently working on **Portfolio Website using Typescript** and **Various Projects** 😭
